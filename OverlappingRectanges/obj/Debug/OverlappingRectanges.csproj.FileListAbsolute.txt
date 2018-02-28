@@ -1,0 +1,7 @@
+c:\users\siddharth\source\repos\OverlappingRectanges\OverlappingRectanges\bin\Debug\OverlappingRectanges.exe.config
+c:\users\siddharth\source\repos\OverlappingRectanges\OverlappingRectanges\bin\Debug\OverlappingRectanges.exe
+c:\users\siddharth\source\repos\OverlappingRectanges\OverlappingRectanges\bin\Debug\OverlappingRectanges.pdb
+c:\users\siddharth\source\repos\OverlappingRectanges\OverlappingRectanges\obj\Debug\OverlappingRectanges.csprojResolveAssemblyReference.cache
+c:\users\siddharth\source\repos\OverlappingRectanges\OverlappingRectanges\obj\Debug\OverlappingRectanges.csproj.CoreCompileInputs.cache
+c:\users\siddharth\source\repos\OverlappingRectanges\OverlappingRectanges\obj\Debug\OverlappingRectanges.exe
+c:\users\siddharth\source\repos\OverlappingRectanges\OverlappingRectanges\obj\Debug\OverlappingRectanges.pdb
