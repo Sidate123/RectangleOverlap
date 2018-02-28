@@ -3,7 +3,7 @@ Problem Statement: To check if any non-rotated rectangles overlap each other in 
 Solution Description:
 -The program I have written takes an input from user asking them for the number of rectangles to check for overlap.
 
--It then asks the user to input co-ordinates for each rectangle in the set of rectangles(which should be given in clock-wise order).
+-It then asks the user to input co-ordinates for each rectangle in the set of rectangles(which should be given in clock-wise order from the top-left).
 
 -It checks for overlap through each unique pair of rectangles  in the set of rectangles.
 
@@ -12,6 +12,9 @@ Solution Description:
 Input format
 User has to enter co-ordinates of the rectangle in the format shown below:-
 Example: 1,2
+         3,2
+         3,1
+         1,1
 
  
 Known issues-
