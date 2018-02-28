@@ -1,0 +1,17 @@
+Problem Statement: To check if any non-rotated rectangles overlap each other in a 2-D space in a set of rectangles provided as user input.
+
+Solution Description:
+-The program I have written takes an input from user asking them for the number of rectangles to check for overlap.
+
+-It then asks the user to input co-ordinates for each rectangle in the set of rectangles(which should be given in clock-wise order).
+
+-It checks for overlap through each unique pair of rectangles  in the set of rectangles.
+
+-Publishes results showing which pairs of rectangles overlap each other.If none of them overlap,it prints a message saying that none of them overlap.
+ 
+Known issues-
+-Unit testing and Exception handling remain undone because of a few time constraints.
+
+-I couldn't add functionality for intersection in three-dimensions and other shapes as it was affecting my implementation of the interface I had defined.But it still can be added using the interface.
+
+-I couldn't work on the Possible extensions as I was mainly trying to focus on the core logic implementation and didn't have time on my hands for the same reason.
