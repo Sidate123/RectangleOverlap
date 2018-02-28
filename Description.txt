@@ -8,6 +8,11 @@ Solution Description:
 -It checks for overlap through each unique pair of rectangles  in the set of rectangles.
 
 -Publishes results showing which pairs of rectangles overlap each other.If none of them overlap,it prints a message saying that none of them overlap.
+
+Input format
+User has to enter co-ordinates of the rectangle in the format shown below:-
+Example: 1,2
+
  
 Known issues-
 -Unit testing and Exception handling remain undone because of a few time constraints.
